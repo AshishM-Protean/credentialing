@@ -21,6 +21,6 @@
     "issuanceId": "schema:Text",
     "photo": "schema:Text",
     "poa": "schema:Text",
-    "por": "schema:Text",
+    "por": "schema:Text"
   }
 }
