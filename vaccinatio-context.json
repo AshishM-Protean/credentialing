@@ -5,7 +5,7 @@
     "type": "@type",
     "schema": "https://schema.org/",
     "VaccinationCredential": {
-      "@id": "https://ashishm-protean.github.io/credentialing/vaccinatio-context.json#IssuanceCredential"
+      "@id": "https://ashishm-protean.github.io/credentialing/vaccinatio-context.json#VaccinationCredential"
     },
     "fullName": "schema:Text",
     "vaccineName": "schema:Text",
