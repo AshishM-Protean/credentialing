@@ -5,7 +5,7 @@
         "@protected": true,
         "type": "@type",
         "schema": "https://schema.org/",
-        “universityIdCredential": {
+        "UniversityIdCredential": {
             "@id": "https://ashishm-protean.github.io/credentialing/universityId-context.json#universityIdCredential"
         },
         "dob": "schema:birthDate",
