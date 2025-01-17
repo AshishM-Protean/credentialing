@@ -6,7 +6,7 @@
         "type": "@type",
         "schema": "https://schema.org/",
         "UniversityIdCredential": {
-            "@id": "https://ashishm-protean.github.io/credentialing/universityId-context.json#universityIdCredential"
+            "@id": "https://ashishm-protean.github.io/credentialing/universityId-context.json#UniversityIdCredential"
         },
         "dob": "schema:birthDate",
         "degree": "schema:Text",
